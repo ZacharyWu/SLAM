@@ -2,4 +2,5 @@ Install Driver:
 https://github.com/bestmodule/RealSense_ROS/tree/master/r200_install
 (skip patch in 16.04)
 
-Install SDK?
+Install SDK:
+https://github.com/IntelRealSense/librealsense/blob/v1.12.1/doc/installation.md
