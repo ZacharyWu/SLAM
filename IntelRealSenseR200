@@ -6,3 +6,6 @@ https://github.com/bestmodule/RealSense_ROS/tree/master/r200_install
 
 Install SDK:
 https://github.com/IntelRealSense/librealsense/blob/v1.12.1/doc/installation.md
+
+Intel® RealSense™ R200 Nodelet Detail: 
+https://github.com/bestmodule/RealSense_ROS/blob/master/realsense_dist/2.3/doc/RealSense-ROS-R200-nodelet.md
