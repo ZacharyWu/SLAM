@@ -1,0 +1,17 @@
+https://github.com/IntelRealSense/realsense-ros/wiki/SLAM-with-D435i
+
+https://github.com/IntelRealSense/realsense-ros
+
+
+Node: 
+realsense2_camera: roslaunch realsense2_camera rs_camera.launch
+imu_filter_madgwick: 
+rtabmap_ros: 
+robot_localization: 
+
+
+rosrun rviz rviz
+
+Topic Frame: /camera/color/image_raw
+PointCloud2: /camera/depth/color/points
+Image: /camera/color/image_raw
